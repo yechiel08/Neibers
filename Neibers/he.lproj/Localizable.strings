@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  evon
+
+  Created by Yechiel Amar on 13/08/13.
+
+*/
+
+"User Name" = "שם משתמש";
+"Email" = "דוא\"ל";
+"Password" = "סיסמא";
+"Log In" = "התחברות";
+"Login" = "התחברות";
+"FaceBook" = "פייסבוק";
+"Forgot your password?" = "שכחת סיסמא?";
+"Fill in your email address" = "הזן כתובת דוא\"ל";
+"OK" = "אישור";
+"New User" = "משתמש חדש";
+"Later" = "מאוחר יותר";
+"Forgot Password" = "שכחתי סיסמא";
+"Back" = "אחורה";
+"Picture" = "תמונה";
+"Use Facebook account to login" = "השתמש בפייסבוק לכניסה והרשמה";
+"I agree to the terms of use" = "אני מאשר תנאי שימוש";
+"Select source image" = "בחר מקור תמונה";
+"Cancel" = "ביטול";
+"Camera" = "מצלמה";
+"Roll Camera" = "אלבום תמונות";
+"Profile" = "פרופיל";
+"Change Password" = "שנה סיסמה";
+"Use my location" = "השתמש במיקום שלי";
+"Skip" = "דלג";
+"Type of Community" = "סוג קהילה";
+"Community name" = "שם הקהילה";
+"Address" = "כתובת מלאה";
+"Description Community" = "תאור קהילה";
+"Open Community" = "קהילה פתוחה";
+"Closed Community" = "קהילה סגורה";
+"New Communities" = "קהילה חדשה";
+"Link to web page" = "קישור לאתר";
+"Menu" = "תפריט";
+"Home map" = "דף הבית";
+"Open a new community" = "פתח קהילה חדשה";
+"Joining request" = "בקשת הצטרפות";
+"Join requests" = "בקשות הצטרפויות";
+"My meetings" = "הפגישות שלי";
+"My Communities" = "הקהילות שלי";
+"About" = "אודות";
+"Log Out" = "התנתקות";
+"Report a problem" = "דווח על בעיה";
+"Shere" = "שתף";
+"Old Password" = "סיסמה ישנה";
+"New Password" = "סיסמה חדשה";
+"Return New Password" = "אמת סיסמה חדשה";
+"Building committee" = "ועד בית";
+"Mothers and children" = "אימהות וילדים";
+"Stuff exchange" = "קח תן";
+"Gardens and School" = "גנים ובי\"ס";
+"Sport" = "ספורט";
+"Babysitter" = "בייביסיטר";
+"Animals" = "בעלי חיים";
+"Hobbies" = "תחביבים";
+"Business" = "עסקים";
+"The golden Age" = "גיל הזהב";
+"Youth Movements" = "תנועות נוער";
+"Students" = "סטודנטים";
+"Synagogue" = "בית כנסת";
+"Other" = "אחר";
+"Church" = "כנסיה";
+"Mosque" = "מסגד";
+"Music" = "מוסיקה";
+"Restaurant" = "מסעדה";
+"Cafes" = "בתי קפה";
+"Pub" = "פאב";
+"Successfully added" = "התווסף בהצלחה";
+"For identification fill out your full name" = "לצורך זיהוי מלאו את שמכם המלא";
+"Members" = "חברים";

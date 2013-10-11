@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  evon
+
+  Created by Yechiel Amar on 13/08/13.
+
+*/
+
+"User Name" = "User Name";
+"Email" = "Email";
+"Password" = "Password";
+"Log In" = "Log In";
+"Login" = "Login";
+"FaceBook" = "FaceBook";
+"Forgot your password?" = "Forgot your password?";
+"Fill in your email address" = "Fill in your email address";
+"OK" = "OK";
+"New User" = "New User";
+"Later" = "Later";
+"Forgot Password" = "Forgot Password";
+"Back" = "Back";
+"Picture" = "Picture";
+"Use Facebook account to login" = "Use Facebook account to login";
+"I agree to the terms of use" = "I agree to the terms of use";
+"Select source image" = "Select source image";
+"Cancel" = "Cancel";
+"Camera" = "Camera";
+"Roll Camera" = "Roll Camera";
+"Profile" = "Profile";
+"Change Password" = "Change Password";
+"Use my location" = "Use my location";
+"Skip" = "Skip";
+"Type of Community" = "Type of Community";
+"Community name" = "Community name";
+"Address" = "Address";
+"Description Community" = "Description Community";
+"Open Community" = "Open Community";
+"Closed Community" = "Closed Community";
+"New Communities" = "New Communities";
+"Link to web page" = "Link to web page";
+"Menu" = "Menu";
+"Home map" = "Home map";
+"Open a new community" = "Open a new community";
+"Joining request" = "Joining request";
+"Join requests" = "Join requests";
+"My meetings" = "My meetings";
+"My Communities" = "My Communities";
+"About" = "About";
+"Log Out" = "Log Out";
+"Report a problem" = "Report a problem";
+"Shere" = "Shere";
+"Old Password" = "Old Password";
+"New Password" = "New Password";
+"Return New Password" = "ReNew Password";
+"Building committee" = "Building committee";
+"Mothers and children" = "Mothers and children";
+"Stuff exchange" = "Stuff exchange";
+"Gardens and School" = "Gardens and School";
+"Sport" = "Sport";
+"Babysitter" = "Babysitter";
+"Animals" = "Animals";
+"Hobbies" = "Hobbies";
+"Business" = "Business";
+"The golden Age" = "The golden Age";
+"Youth Movements" = "Youth Movements";
+"Students" = "Students";
+"Synagogue" = "Synagogue";
+"Other" = "Other";
+"Church" = "Church";
+"Mosque" = "Mosque";
+"Music" = "Music";
+"Restaurant" = "Restaurant";
+"Cafes" = "Cafes";
+"Pub" = "Pub";
+"Successfully added" = "Successfully added";
+"For identification fill out your full name" = "For identification fill out your full name";
+"Members" = "Members";
